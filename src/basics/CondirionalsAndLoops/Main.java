@@ -1,6 +1,5 @@
-package basics;
+package basics.CondirionalsAndLoops;
 
-import java.awt.desktop.SystemEventListener;
 import java.util.Scanner;
 
 public class Main {

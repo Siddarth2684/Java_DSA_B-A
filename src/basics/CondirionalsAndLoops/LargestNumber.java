@@ -1,4 +1,4 @@
-package basics;
+package basics.CondirionalsAndLoops;
 
 import java.util.Scanner;
 
